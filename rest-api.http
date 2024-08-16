@@ -1,0 +1,4 @@
+GET http://localhost:8080/parcel/calculate?weight=5.5&height=1400&width=1.0&length=1.0
+Accept: application/json
+
+###

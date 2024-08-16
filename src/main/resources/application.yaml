@@ -1,0 +1,9 @@
+exam-one:
+  voucher:
+    url: https://mynt-test.wiremockapi.cloud
+spring:
+  application:
+    name: exam-one
+  threads:
+    virtual:
+      enabled: true
